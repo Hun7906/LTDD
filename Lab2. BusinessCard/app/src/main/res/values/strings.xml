@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Phúc Trần</string>
+    <string name="job_title">Android Developer Beginner</string>
+    <string name="phone">+84 900 000 000</string>
+    <string name="social">@phuctran</string>
+    <string name="email">phuc@example.com</string>
+    <string name="logo_description">Biểu tượng robot Android</string>
+</resources>
